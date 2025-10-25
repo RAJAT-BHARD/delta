@@ -1,2 +1,2 @@
 # new project
-created for init
+created for init.
